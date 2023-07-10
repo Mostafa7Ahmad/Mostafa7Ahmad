@@ -29,10 +29,10 @@
 
 <h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mostafa7Ahmad&theme=tokyonight	)](https://github.com/ryo-ma/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mostafa7Ahmad&theme=tokyonight	)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mostafa7Ahmad&theme=tokyonight	)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mostafa7Ahmad&theme=tokyonight	)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mostafa7Ahmad&theme=tokyonight	)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mostafa7Ahmad&theme=tokyonight&utcOffset=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mostafa7Ahmad&theme=transparent	)](https://github.com/ryo-ma/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mostafa7Ahmad&theme=transparent	)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mostafa7Ahmad&theme=transparent	)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mostafa7Ahmad&theme=transparent	)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mostafa7Ahmad&theme=transparent	)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mostafa7Ahmad&theme=transparent&utcOffset=8)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mostafa%20Ahmad&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mostafa%20Ahmad&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
