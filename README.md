@@ -1,5 +1,24 @@
 <h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">
+Hi, I'm Ahmed Nageeb!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 
+<br/>
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer;Always+learning+new+things;Youtuber;Freelancer&center=true&width=380&height=45"></a>
+</p>
+
+```
+ahmednageebmahmoud@github
+-------------------------
+💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on Deep Learning & Machine Learning
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Python, JavaScript
+🚩 Interested in Full Stack Machine Learning Application development
+```
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/most7a_ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="most7a_ahmad" height="30" width="40" /></a>
