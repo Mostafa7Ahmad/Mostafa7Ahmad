@@ -9,7 +9,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+full+stack+developer;Always+learning+new+things;Freelancer;" alt="Typing SVG" />
 </a>
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
