@@ -71,14 +71,12 @@ I code with</h2>
 
 
 <p align="left">
-✨ Creating bugs since ...
+✨ Creating bugs since 2019
 <br>
-📚 I'm currently learning ...
+📚 I am currently learning Laravel
 <br>
-🎯 Goals: ...
+🎯 Goals: To program amazing and professional applications and work at Google
 <br>
-🎲 Fun fact: ...
-</p>
 
 ###
 
