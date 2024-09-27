@@ -11,24 +11,10 @@
 
 <h2 align="left">About me</h2>
 
-###
-
-<p align="left">
-✨ Creating bugs since ...
-<br>
-📚 I'm currently learning ...
-<br>
-🎯 Goals: ...
-<br>
-🎲 Fun fact: ...
-</p>
 
 
 
 
-
-<h2 align="left">
-I code with</h2>
 
 ###
 
@@ -80,7 +66,26 @@ I code with</h2>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mostafa7Ahmad/Mostafa7Ahmad/output/snake.svg" alt="Snake animation" />
+<h2 align="left">
+I code with</h2>
+
+
+<p align="left">
+✨ Creating bugs since ...
+<br>
+📚 I'm currently learning ...
+<br>
+🎯 Goals: ...
+<br>
+🎲 Fun fact: ...
+</p>
+
+###
+
+
+
+
+<!-- <img src="https://raw.githubusercontent.com/Mostafa7Ahmad/Mostafa7Ahmad/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
